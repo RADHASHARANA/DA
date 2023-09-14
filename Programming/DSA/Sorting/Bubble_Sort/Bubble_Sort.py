@@ -1,9 +1,13 @@
-'''
-def bubbleSort(nums: List[int]) ->List[int]:
-    array_length = nums.count()
-    for iter in range(nums.array_length-1):
-'''
+from type import List
 
-array = []
-array.append(2,3)
-print(array)
+def bubble_sort(array: List(int)):
+    print("")
+
+
+
+
+def main():
+    array = list(map(int, input('Enter the unsorted array: ').split()))
+    bubble_sort(array=array)
+
+main()
