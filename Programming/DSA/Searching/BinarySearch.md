@@ -9,3 +9,5 @@
 ###### sqrt of a number
 
 ###### https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/description/
+###### https://leetcode.com/problems/minimum-size-subarray-sum/description/
+###### https://leetcode.com/problems/koko-eating-bananas/description/
