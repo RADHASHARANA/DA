@@ -11,9 +11,6 @@ Assignment statements in Python do not copy objects, they create bindings betwee
 
 
 
-
-
-
 **Shallow Copy:**
 
 A shallow copy of an object is a new object that is a copy of the original object with a new reference. However, the elements within the new object still reference the same objects as the original object. In other words, the outer structure is copied, but the inner objects are still shared between the original and the copy.
